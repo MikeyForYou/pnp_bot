@@ -1,3 +1,2 @@
 # pnp_bot
-Discord bot for personal add posting and responding
-You sick fucks 
+Discord bot that will take input from Members and output a nice personal add for server. 
